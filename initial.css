@@ -1,0 +1,57 @@
+/* GREEN: #3c8067;
+GREEN_DARK: #265242;
+CREAM: #f2ebe3;
+BLACK: #1c232b;
+TEXT:  #6c7289;
+WHITE: #ffffff;
+*/
+
+/* font-family: "Montserrat", sans-serif; */
+/* font-family: "Fraunces", serif; */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.card {
+}
+
+.perfume-figure {
+}
+
+.perfume-image {
+}
+
+.details {
+}
+
+.heading {
+}
+
+.title {
+}
+
+.description {
+}
+
+.prices {
+}
+
+.discounted {
+}
+
+.real {
+}
+
+.btn {
+}
+
+.cart-icon {
+}
